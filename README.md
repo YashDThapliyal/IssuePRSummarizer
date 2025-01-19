@@ -20,6 +20,7 @@ This application summarizes GitHub pull requests (PRs) and issues, including com
 - A **GitHub Personal Access Token** (optional, but recommended for increased API rate limits or private repositories).
 
 ---
+
 ## Usage
 
 ### Enter API Tokens:
@@ -48,10 +49,33 @@ This application summarizes GitHub pull requests (PRs) and issues, including com
   - A concise overview and actionable next steps generated using the GROQ API.
 
 ---
-### Dependencies
 
-Run the following command in your terminal:
+## Dependencies
+
+Run the following command in your terminal to install the required dependencies:
 
 ```bash
 pip install streamlit requests groq
+```
 
+---
+
+## Run the Application
+
+Run the following command in your terminal to start the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## MIT License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## Author
+
+**Made by Yash Thapliyal in 2025**
