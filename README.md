@@ -48,8 +48,10 @@ This application summarizes GitHub pull requests (PRs) and issues, including com
   - A concise overview and actionable next steps generated using the GROQ API.
 
 ---
-##Dependencies: 
+### Dependencies
+
 Run the following command in your terminal:
 
-`pip install streamlit requests groq
+```bash
+pip install streamlit requests groq
 
