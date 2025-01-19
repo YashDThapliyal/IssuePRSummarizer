@@ -25,7 +25,7 @@ This application summarizes GitHub pull requests (PRs) and issues, including com
 ### Enter API Tokens:
 
 - **GROQ API Key**:
-  - Enter your GROQ API Key in the "Settings" section of the sidebar.
+  - Enter your [GROQ API Key](https://console.groq.com/keys) in the "Settings" section of the sidebar. 
 
 - **GitHub Token** *(optional)*:
   - Generate a [GitHub Personal Access Token](https://github.com/settings/tokens) with the `repo` scope.
